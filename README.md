@@ -1,7 +1,12 @@
 ### node version
     v22.19.0
 
-### Added on 2026.3.26
+### Update History
+
+    revise date: 2026.3.27
+    XML cannot use "&"
+    
+    revise date: 2026.3.26
     Google GTM
     Whatsapp phone number
 
@@ -20,6 +25,8 @@ set global css
 Added on all page
 
 ## Create Sitemap & robots
+npm install next-sitemap
+use App Router data to upate new page
 
     your-react-project/
     ├── public/
